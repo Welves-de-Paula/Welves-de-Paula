@@ -52,7 +52,7 @@
 
 <div align="center">
  
-  <img src="[https://streak-stats.demolab.com?user=welves-de-paula&locale=pt-br&mode=weekly&theme=cobalt&hide_border=true&border_radius=10&order=3](https://camo.githubusercontent.com/b1e4c6b627b542838a265bc7b263de4e27f0c03433499d95f8c51e47ed517061/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d77656c7665732d64652d7061756c61266c6f63616c653d70742d6272266d6f64653d7765656b6c79267468656d653d636f62616c7426686964655f626f726465723d7472756526626f726465725f7261646975733d3130266f726465723d33)" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=welves-de-paula&locale=pt-br&mode=weekly&theme=cobalt&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
