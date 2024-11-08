@@ -46,14 +46,6 @@
 
 ###
 
-<h3 align="left">🔥 Minhas estatísticas</h3>
-
-###
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=welves-de-paula&locale=pt-br&mode=weekly&theme=cobalt&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
