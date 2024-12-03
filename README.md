@@ -45,7 +45,7 @@
 </div>
 <br/>
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=welves-de-paula&theme=dark&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=welves-de-paula&theme=dark&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 
