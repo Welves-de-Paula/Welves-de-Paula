@@ -43,7 +43,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
 </div>
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=welves-de-paula&theme=dark&hide_border=true&locale=pt_BR&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+</div>
 ###
 
 
